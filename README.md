@@ -18,7 +18,7 @@ These libraries serve as the foundation for our tools, including the [Switch 2 B
 To compile these libraries, you will need **devkitPro** and CMake installed.
 
 ```bash
-git clone https://github.com/OpenCore-Homebrew/switch2-core-libs.git
+git clone https://github.com/SwitchFW-Tools/switch2-core-libs.git
 cd switch2-core-libs
 mkdir build && cd build
 cmake ..
